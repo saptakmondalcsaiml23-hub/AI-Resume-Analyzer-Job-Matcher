@@ -1,0 +1,9 @@
+fastapi==0.115.12
+openai==1.66.5
+psycopg2-binary==2.9.10
+pydantic-settings==2.8.1
+pypdf==5.4.0
+python-multipart==0.0.20
+scikit-learn==1.6.1
+sqlalchemy==2.0.38
+uvicorn[standard]==0.34.0
